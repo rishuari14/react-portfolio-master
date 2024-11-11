@@ -22,14 +22,14 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Senior Frontend Developer / Team Lead",
+    jobtitle: "Team Lead (Frontend,Backend and Devops)",
     where: "Hauper Technologies",
     date: "March 2023-Present",
   },
   {
-    jobtitle: "Front-end Developer",
+    jobtitle: "Senior Software Engineer",
     where: "GeoAlgo Technologies",
-    date: "Feb 2022-Aug 2022",
+    date: "Feb 2022-Feb 2023",
   },
 
   {
@@ -66,8 +66,18 @@ const skills = [
   },
 
   {
-    name: "Backend Development (Node js)",
-    value: 50,
+    name: "Git && Github",
+    value: 80,
+  },
+
+  {
+    name: "Azure && AWS",
+    value: 70,
+  },
+
+  {
+    name: "Backend Development (Node js,Nest js)",
+    value: 70,
   },
 ];
 
@@ -161,7 +171,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  linkedin: "https://www.linkedin.com/in/rishikesh-keshari-70a898219/",
+  linkedin: "https://www.linkedin.com/in/rishikesh-keshari-01795a326/",
 };
 export {
   meta,
